@@ -23,4 +23,4 @@ curl https://raw.githubcontent.com/sumologic/sumologic-solution-templates/aws-ob
 
 :::tip Multi-account and region
 If you need to add support for multiple AWS accounts or multiple regions, refer to the Sumo Logic documentation for [CloudFormation](/docs/observability/aws/deploy-use-aws-observability/deploy-with-aws-cloudformation) or [Terraform](docs/observability/aws/deploy-use-aws-observability/deploy-with-terraform.md).
-:::
+:::  
